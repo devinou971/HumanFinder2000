@@ -1,0 +1,5 @@
+names:
+- Human
+test: dataset_yolo_4.0/test
+train: dataset_yolo_4.0/train
+val: dataset_yolo_4.0/val
